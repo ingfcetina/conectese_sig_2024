@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: FastAPI",
+            "type": "python",
+            "request": "launch",
+            "module": "uvicorn",
+            "args": [
+                "C:\\Users\\ECETINA\\OneDrive - Esri NOSA\\conectese_sig_2024\\conectese_sig_2024\\my-fastapi-app\\app.main:app",
+                "--reload"
+            ],
+            "jinja": true
+        }
+    ]
+}
